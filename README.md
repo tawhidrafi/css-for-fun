@@ -1,1 +1,1 @@
-# css-for-fun
+In here I created this repository to practice and enhance my frontend skills. Most of the work is based on HTML, vanilla CSS3, and vanilla JS. I've created this repository to document my progress in learning and applying frontend development techniques. 
